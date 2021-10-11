@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/knightryder098/gobindakeep/static/css/main.e80ee1a9.chunk.css",
+    "main.js": "/knightryder098/gobindakeep/static/js/main.a79b7885.chunk.js",
+    "main.js.map": "/knightryder098/gobindakeep/static/js/main.a79b7885.chunk.js.map",
+    "runtime-main.js": "/knightryder098/gobindakeep/static/js/runtime-main.7449ff8d.js",
+    "runtime-main.js.map": "/knightryder098/gobindakeep/static/js/runtime-main.7449ff8d.js.map",
+    "static/js/2.65333bfa.chunk.js": "/knightryder098/gobindakeep/static/js/2.65333bfa.chunk.js",
+    "static/js/2.65333bfa.chunk.js.map": "/knightryder098/gobindakeep/static/js/2.65333bfa.chunk.js.map",
+    "index.html": "/knightryder098/gobindakeep/index.html",
+    "static/css/main.e80ee1a9.chunk.css.map": "/knightryder098/gobindakeep/static/css/main.e80ee1a9.chunk.css.map",
+    "static/js/2.65333bfa.chunk.js.LICENSE.txt": "/knightryder098/gobindakeep/static/js/2.65333bfa.chunk.js.LICENSE.txt",
+    "static/media/main_logo.24ebddf8.gif": "/knightryder098/gobindakeep/static/media/main_logo.24ebddf8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7449ff8d.js",
+    "static/js/2.65333bfa.chunk.js",
+    "static/css/main.e80ee1a9.chunk.css",
+    "static/js/main.a79b7885.chunk.js"
+  ]
+}
