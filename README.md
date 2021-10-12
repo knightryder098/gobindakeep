@@ -10,6 +10,14 @@ Use git clone to clone GobindaKeep into your system .
 gh repo clone knightryder098/gobindakeep
 ```
 
+## Start
+
+Use the terminal windows inside your project directories to start the server
+
+```bash
+  npm start
+```
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
